@@ -1,0 +1,1 @@
+# SOC-Lab-Elastic-Stack-Deployment-with-Fleet-Endpoint-Telemetry
